@@ -1,0 +1,19 @@
+p {
+    color: red;
+    font-style: italic;
+    text-align: center;
+}
+
+#linea {
+    color: rgb(103, 15, 141);
+    font-size: larger;
+    font-style: italic;
+    text-align: left;
+}
+/*usar el "*" y "/" abierto y cerrado para comentar */
+/*Importante comocarle el # identificador y tambien el . para uan clase*/
+
+.linea {
+    color: green;
+    font-size: 30px;
+}
